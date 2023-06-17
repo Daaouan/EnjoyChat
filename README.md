@@ -44,6 +44,10 @@ It supports various transport mechanisms for compatibility across platforms and 
 
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/85f0216d-cf5a-47eb-a7cd-b022a7512d11" alt="Screenshot 2" width="150" height="100" />
 
+
+<img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/5845bc1e-4a97-4658-b1c2-d03b8053d857" alt="Screenshot 18" width="500" height="300" />
+
+
 ## .Net & Angular
 
 ### .Net
@@ -61,15 +65,34 @@ Angular is a powerful front-end framework developed by Google, providing a robus
 
 ## Our application
 
+### First page
+
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/5cfa6546-2a36-4db6-9a16-5205e5397a1d" alt="Screenshot 7" width="500" height="300" />
+
+### Username invalid
 
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/dcdf8a23-d194-446d-a529-b3399782598c" alt="Screenshot 8" width="500" height="300" />
 
+### Username already exist
+<img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/de9fb96e-ab24-46ef-9565-c7443b57f555" alt="Screenshot 20" width="500" height="300" />
+
+### Note that the user connected is in green color
+
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/affb68e3-1634-44f8-8d7a-2bcf962223ec" alt="Screenshot 9" width="500" height="300" />
+
+### Conversation from user1 "Mohammed"
 
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/1f523116-a6ed-4df4-ac21-7e64824c14c1" alt="Screenshot 10" width="500" height="300" />
 
+### Conversation from user2 "Said"
+
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/f8f32b2e-410e-42c0-9543-dc6dc65d3203" alt="Screenshot 11" width="500" height="300" />
 
+### Conversation from user3 "Sara"
+
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/97aeccc8-0d62-47b0-95c0-d697ae4c182c" alt="Screenshot 12" width="500" height="300" />
+
+### The back home button will get you back to the first page and the username will despear from the users list
+
+<img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/f094a6ae-9509-4b3c-bd66-7fc845ec0c7a" alt="Screenshot 21" width="500" height="300" />
 
