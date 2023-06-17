@@ -1,0 +1,6 @@
+<div style="overflow-y:auto; height: 400px;">
+    <p class="card-text" *ngFor="let message of messages">
+        <span class="text-primary"><b>{{message.from}}:</b> </span>
+        <span class="ml-1" style="color: white;"><b>{{message.content}}</b> </span>
+    </p>
+</div>
