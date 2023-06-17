@@ -36,7 +36,7 @@ Leveraging this protocol creates interactive web experiences, enhancing user eng
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/a5e27f44-5c0a-4047-89f1-f5123f32e335" alt="Screenshot 1" width="600" height="400" />
 
 
-[## SignalR](SignalR)
+## SignalR
 SignalR is a powerful real-time communication library for web applications. 
 It simplifies the development process by handling connections and real-time updates. 
 With SignalR, developers can easily implement features like chat systems and live notifications. 
@@ -44,7 +44,7 @@ It supports various transport mechanisms for compatibility across platforms and 
 
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/85f0216d-cf5a-47eb-a7cd-b022a7512d11" alt="Screenshot 2" width="150" height="100" />
 
-[## .Net & Angular](framworks)
+## .Net & Angular
 
 ### .Net
 
