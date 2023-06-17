@@ -18,15 +18,15 @@ The following individuals have contributed to the development of this applicatio
 
 ## table of contents
 
-**[Web Socket](#WebSocket)**
+- [Web Socket](#WebSocket)
 
-**[SignalR](#SignalR)**
+- [SignalR](#SignalR)
 
-**[.Net & Angular](#framworks)**
+- [.Net & Angular](#framworks)
 
-**[Our application](#Ourapplication)**
+- [Our application](#Ourapplication)
 
-[## Web Socket](WebSocket)
+## Web Socket
 
 WebSockets enable real-time, bidirectional communication between clients and servers. 
 With a persistent connection, data transmission becomes efficient and instant. 
@@ -59,5 +59,17 @@ Angular is a powerful front-end framework developed by Google, providing a robus
 
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/27f6c96f-8c7d-46c1-b004-08a5ed34e9c7" alt="Screenshot 4" width="200" height="100" />
 
-[## Our application](Ourapplication)
+## Our application
+
+<img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/5cfa6546-2a36-4db6-9a16-5205e5397a1d" alt="Screenshot 7" width="500" height="300" />
+
+<img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/dcdf8a23-d194-446d-a529-b3399782598c" alt="Screenshot 8" width="500" height="300" />
+
+<img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/affb68e3-1634-44f8-8d7a-2bcf962223ec" alt="Screenshot 9" width="500" height="300" />
+
+<img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/1f523116-a6ed-4df4-ac21-7e64824c14c1" alt="Screenshot 10" width="500" height="300" />
+
+<img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/f8f32b2e-410e-42c0-9543-dc6dc65d3203" alt="Screenshot 11" width="500" height="300" />
+
+<img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/97aeccc8-0d62-47b0-95c0-d697ae4c182c" alt="Screenshot 12" width="500" height="300" />
 
