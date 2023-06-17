@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Chat application.props" />
+</Project>

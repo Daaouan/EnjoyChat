@@ -1,0 +1,66 @@
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\bin\Debug\net7.0\Chat application.exe
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\bin\Debug\net7.0\Chat application.deps.json
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\bin\Debug\net7.0\Chat application.runtimeconfig.json
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\bin\Debug\net7.0\Chat application.dll
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\bin\Debug\net7.0\Chat application.pdb
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\staticwebassets\msbuild.Chat application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\staticwebassets\msbuild.build.Chat application.props
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Chat application.props
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Chat application.props
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\scopedcss\bundle\Chat application.styles.css
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.dll
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\refint\Chat application.dll
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.pdb
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\EnjoyChat\Chat application\obj\Debug\net7.0\ref\Chat application.dll
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\bin\Debug\net7.0\Chat application.exe
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\bin\Debug\net7.0\Chat application.deps.json
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\bin\Debug\net7.0\Chat application.runtimeconfig.json
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\bin\Debug\net7.0\Chat application.dll
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\bin\Debug\net7.0\Chat application.pdb
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\staticwebassets\msbuild.Chat application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\staticwebassets\msbuild.build.Chat application.props
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Chat application.props
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Chat application.props
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\scopedcss\bundle\Chat application.styles.css
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.dll
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\refint\Chat application.dll
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.pdb
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\Chat application.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\EnjoyChat\Chat application\obj\Debug\net7.0\ref\Chat application.dll
