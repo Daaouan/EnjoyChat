@@ -18,13 +18,13 @@ The following individuals have contributed to the development of this applicatio
 
 ## table of contents
 
-- [Web Socket](#websocket)
+- [Web Socket](#web-Socket)
 
 - [SignalR](#signalR)
 
-- [.Net & Angular](#framworks)
+- [.Net & Angular](#.Net-&-Angular)
 
-- [Our application](#ourapplication)
+- [Our application](#our-application)
 
 ## Web Socket
 
