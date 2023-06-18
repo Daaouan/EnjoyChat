@@ -105,3 +105,7 @@ Angular is a powerful front-end framework developed by Google, providing a robus
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/f094a6ae-9509-4b3c-bd66-7fc845ec0c7a" alt="Screenshot 21" width="500" height="300" />
 </p>
 
+### Private chat option: on click on the user who we want to talk to, a private chat modal form will display 
+<p align="center">
+<img src="https://github.com/Daaouan-Mohammed/EnjoyChat/assets/116027598/1b06bca2-c1cf-4229-ba10-707673377cf3" alt="Screenshot 21" width="500" height="300" />
+</p>
