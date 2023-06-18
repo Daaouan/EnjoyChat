@@ -85,22 +85,22 @@ Angular is a powerful front-end framework developed by Google, providing a robus
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/affb68e3-1634-44f8-8d7a-2bcf962223ec" alt="Screenshot 9" width="500" height="300" />
 </p>
 
-### Conversation from user1 "Mohammed"
+### Conversation from user1 "Mohammed" connection
 <p align="center">
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/1f523116-a6ed-4df4-ac21-7e64824c14c1" alt="Screenshot 10" width="500" height="300" />
 </p>
 
-### Conversation from user2 "Said"
+### Conversation from user2 "Said" connection
 <p align="center">
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/f8f32b2e-410e-42c0-9543-dc6dc65d3203" alt="Screenshot 11" width="500" height="300" />
 </p>
 
-### Conversation from user3 "Sara"
+### Conversation from user3 "Sara" connection
 <p align="center">
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/97aeccc8-0d62-47b0-95c0-d697ae4c182c" alt="Screenshot 12" width="500" height="300" />
 </p>
 
-### The back home button will get you back to the first page and the username will despear from the users list
+### The back-to-home button will get you back to the first page and the username will disappear from the users list
 <p align="center">
 <img src="https://github.com/Frikh-Said/EnjoyChat/assets/123327203/f094a6ae-9509-4b3c-bd66-7fc845ec0c7a" alt="Screenshot 21" width="500" height="300" />
 </p>
