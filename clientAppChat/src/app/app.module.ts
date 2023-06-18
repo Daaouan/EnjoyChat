@@ -12,7 +12,8 @@ import { HttpClient } from '@microsoft/signalr';
 import{HttpClientModule} from '@angular/common/http';
 import { ChatComponent } from './components/chat/chat.component';
 import { ChatInputComponent } from './components/chat-input/chat-input.component';
-import { MessagesComponent } from './components/messages/messages.component'
+import { MessagesComponent } from './components/messages/messages.component';
+import { PrivateChatComponent } from './components/private-chat/private-chat.component'
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { MessagesComponent } from './components/messages/messages.component'
     HomeComponent,
     ChatComponent,
     ChatInputComponent,
-    MessagesComponent
+    MessagesComponent,
+    PrivateChatComponent
   ],
   imports: [
     BrowserModule,

@@ -16,6 +16,7 @@
                         <div class="d-grid">
                             <button type="button" class="btn card-text btn-block" 
                             [ngClass]="{'btn-success': user===chatService.myName, 'btn-info':user!==chatService.myName}"
+                            (click)="openPrivateChat(user)"
                             [disabled]="user===chatService.myName">{{user}}</button>
                         </div>
                     </div>

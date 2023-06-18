@@ -18,7 +18,7 @@ namespace Chat_application.Hubs
         public override async Task OnConnectedAsync()
         {
             await Groups.AddToGroupAsync(Context.ConnectionId, "EnjoyChat");
-            await Clients.Caller.SendAsync("USerConnected");
+            await Clients.Caller.SendAsync("UserConnected");
         }
 
         public override async Task OnDisconnectedAsync(Exception exception)
@@ -40,6 +40,39 @@ namespace Chat_application.Hubs
         public async Task ReceiveMessage(MessageDto message)
         {
             await Clients.Group("EnjoyChat").SendAsync("NewMessage", message);
+        }
+
+        public async Task CreatePrivateChat(MessageDto message)
+        {
+            string privateGroupName = GetPrivateGroupName(message.From, message.To);
+            await Groups.AddToGroupAsync(Context.ConnectionId, privateGroupName);
+            var toConnectionId = _chatService.GetConnectionIdByUser(message.To);
+            await Groups.AddToGroupAsync(toConnectionId, privateGroupName);
+
+            //open private chat for the other user
+            await Clients.Client(toConnectionId).SendAsync("OpenPrivateChat", message);
+        }
+
+        public async Task RecivePrivateMessage(MessageDto message)
+        {
+            string privateGroupName = GetPrivateGroupName(message.From, message.To);
+            await Clients.Group(privateGroupName).SendAsync("NewPrivateMessage", message);
+        }
+
+        public async Task RemovePrivateChat(string from, string to)
+        {
+            string privateGroupName = GetPrivateGroupName(from, to);
+            await Clients.Group(privateGroupName).SendAsync("ClosePrivateChat");
+            await Groups.RemoveFromGroupAsync(Context.ConnectionId, privateGroupName);
+            var toConnectionId = _chatService.GetConnectionIdByUser(to);
+            await Groups.RemoveFromGroupAsync(toConnectionId, privateGroupName);
+        }
+
+        private string GetPrivateGroupName(string from, string to) 
+        {
+            //user1 to user2 : user1-user2
+            var stringCompare = string.CompareOrdinal(from, to) < 0;
+            return stringCompare ? $"{from}-{to}" : $"{to}-{from}";
         }
 
         private async Task DisplayOnlineUsers()
